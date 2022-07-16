@@ -1,0 +1,1 @@
+Note: # requires python 3.8# pip install lightgbmHow to run :-> First Extract the zip file.> Open the ÒMalware_Diagnosis_In_Computer_Systems.ipynbÓ and download the Òtrain.csvÓ from the link mentioned in the python notebook.> Place the downloaded train.csv in the same folder as the notebook.> Now the Notebook cells can be executed.
